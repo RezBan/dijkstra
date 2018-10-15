@@ -1,0 +1,8 @@
+{
+    "name": "jiil/dijkstra_algorithm",
+    "description": "dijkstra_algorithm with json file",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
