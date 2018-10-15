@@ -3,6 +3,6 @@
     "description": "dijkstra_algorithm with json file",
     "require": {
         "php": "^5.5",
-        "jiil/dijkstra_algorithm": "1.1"
+        "jiil/dijkstra_algorithm": "1.0"
     }
 }
